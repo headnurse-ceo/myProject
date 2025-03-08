@@ -1,0 +1,108 @@
+    1  node -v
+    2  npm install -g express express-generator
+    3  ssh-keygen -t rsa -C "breadpia@cafe24app.com"
+    4  ssh-keygen -t rsa -C "breadpia@cafe24app.com"
+    5  npm install -g express express-generato
+    6  npm install -g express express-generator
+    7  ls -al
+    8  ssh-keygen -t rsa -C "breadpia.cafe24app.com"
+    9  cd ..
+   10  dir
+   11  cd ..
+   12  ls -al
+   13  git
+   14  cd ~
+   15  ls 
+   16  ls -al
+   17  pwd
+   18  cd Documents/
+   19  ls -al
+   20  ls -al
+   21  cd ../Downloads/
+   22  ls -al
+   23  cd ~
+   24  ls -al
+   25  git --version
+   26  git --version
+   27  git remote set-url origin https://github.com/mintor-admin/cto.git
+   28  git config user.name
+   29  git config user.email
+   30  git clone https://github.com/mintor-admin/gitYalco.git
+   31  git push origin main
+   32  cat ~/.gitconfig
+   33  git config --global user.name headnurse-ceo
+   34  git config --global user.email headnurse.ceo@gmail.com
+   35  cat ~/.gitconfig
+   36  git push origin main
+   37  git push origin main
+   38  git commit -am "bugfix3 생성"
+   39  git add .
+   40  git commit -m "bugfix3 생성"
+   41  git push origin main
+   42  git add bugfix4
+   43  git commit -m "bugfix4 또  생성"
+   44  git push origin main
+   45  git revert HEAD
+   46  git push origin main
+   47  git revert HEAD
+   48  git push origin main
+   49  git push origin main
+   50  git rm bugfixfix5
+   51  git rm bugfix5
+   52  git commjt -m "bugfix5 삭제함 : git rm 명령시행"
+   53  git commㅑt -m "bugfix5 삭제함 : git rm 명령시행"
+   54  git commit -m "bugfix5 삭제함 : git rm 명령시행"
+   55  git push origin main
+   56  git revert HEAD
+   57  git push origin main
+   58  git add bugfix7
+   59  git commit -m "bugfix7"
+   60  git push origin main
+   61  git mv bugfix7 newBugfix7
+   62  git push origin main
+   63  git status
+   64  git add .
+   65  git status
+   66  git rm --cached bugfix6_no_remote 
+   67  git status
+   68  git add .
+   69  git status
+   70  git restore --staged bugfix6_no_remote 
+   71  git status
+   72  git commit -m "rename bugfix7 to newBugfix7"
+   73  git push origin main
+   74  git status
+   75  git add .gitignore
+   76  git status
+   77  ls -al
+   78  git add .
+   79  git status
+   80  git push origin main
+   81  git add .
+   82  git status
+   83  git add .
+   84  git status
+   85  git status
+   86  git commit -m ".gitignore 테스트"
+   87  git push origin main
+   88  git shortlog
+   89  git shortlog -n
+   90  git shortlog -e
+   91  git log
+   92  git log
+   93  git log
+   94  git log --grep="merge"
+   95  git log --grep="Merge"
+   96  git log --grep="branch"
+   97  git status
+   98  git add .
+   99  git status
+  100  git diff
+  101  git diff --cached
+  102  git commit -m "reset3 생성"
+  103  git diff
+  104  git diff --cached
+  105  git push origin main
+  106  stage에 올리지 말아야할 파일이 올라갔을때 stage에서 remove하는 명령 : git rm --cached <파일이름>stage에 올리지 말아야할 파일이 올라갔을때 stage에서 remove하는 명령 : git rm --cached <파일이름>stage에 올리지 말아야할 파일이 올라갔을때 stage에서 remove하는 명령 : git rm --cached <파일이름>stage에 올리지 말아야할 파일이 올라갔을때 stage에서 remove하는 명령 : git rm --cached <파일이름>
+  107  history
+  108  history > history
